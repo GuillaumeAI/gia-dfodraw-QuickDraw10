@@ -1,3 +1,11 @@
+
+# Gia Decision Forest by Drawing (DFODRAW)
+
+
+----
+Original README
+----
+
 # QuickDraw10
 
 This dataset was collected by Google from people drawing different objects. The dataset is a collection of 50 million drawings from 345 different objects that is available publically for everyone. We extract a simple subset of the dataset for simple machine learning tasks. The dataset is suggested as an alternative for MNIST. 
