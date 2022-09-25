@@ -1,6 +1,11 @@
 
 # Gia Decision Forest by Drawing (DFODRAW)
 
+## Intentions
+
+* Decide using a set of Drawn sketches in an image
+
+
 
 ----
 Original README
